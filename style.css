@@ -1,0 +1,14 @@
+
+body
+{
+    background-image: url(white-cloud-blue-sky.jpg);
+    background-size: contain;
+    background-size: 100% ;
+}
+
+.bt-c
+{
+    width: 150px  !important  ;
+    height: 150px  !important ;
+    border-radius: 50%   ; 
+}
